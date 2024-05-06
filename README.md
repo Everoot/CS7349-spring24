@@ -3,7 +3,6 @@
 ### Assignments 
 
 - [x] Class Presentation (5 min) - 01/26/2024
-
 - [x] Homework 1 02/05/2024
 - [x] Submit Case Study - 02/26/2024
 - [x] Homework 3 03/21/2024
